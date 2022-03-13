@@ -1,0 +1,72 @@
+/* font-family: 'Courier Prime', monospace; */
+body {
+  text-align: center;
+  margin: auto;
+}
+
+header {
+  font-family: 'Courier Prime', monospace;
+  text-align: center;
+  background-color: #194350;
+  padding: 5% 30% 2%;
+}
+
+h1 {
+  color: #FFC2B4;
+  font-size: 2rem;
+}
+
+.cointainer {
+  background-color: #194350;
+  margin: auto;
+  display: block;
+  padding-bottom: 35px;
+}
+
+.btn {
+  padding: 70px 70px;
+  border-radius: 12px;
+  border: 2px solid white;
+  margin: 10px;
+}
+
+.game_button1 {
+  background-color: #98DDCA;
+}
+
+.game_button2 {
+  background-color: #D5ECC2;
+}
+
+.game_button3 {
+  background-color: #FFAAA7;
+}
+
+.game_button4 {
+  background-color: #FFD3B4;
+}
+
+footer {
+  background-color: #9DBEB9;
+  margin: auto;
+  display: block;
+  padding: 10px;
+  text-align: center;
+  font-family: 'Courier Prime', monospace;
+  color: #194350;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
+#level-title {
+  color: #FFC2B4;
+  font-size: 2rem;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
